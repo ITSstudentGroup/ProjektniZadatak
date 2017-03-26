@@ -1,0 +1,552 @@
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\roslyn\csc.exe
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\roslyn\vbc.exe
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\Projekat.dll.config
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\Projekat.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\Projekat.pdb
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\Antlr3.Runtime.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\EntityFramework.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\EntityFramework.SqlServer.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\Microsoft.Owin.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\Newtonsoft.Json.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\Owin.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\System.Web.Helpers.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\System.Web.Mvc.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\System.Web.Optimization.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\System.Web.Razor.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\System.Web.WebPages.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\WebGrease.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\System.Web.Helpers.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\System.Web.Mvc.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\System.Web.Optimization.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\System.Web.Razor.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\System.Web.WebPages.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\Antlr3.Runtime.pdb
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\Newtonsoft.Json.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\EntityFramework.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\EntityFramework.SqlServer.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\Microsoft.Owin.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\obj\Debug\Projekat.csprojResolveAssemblyReference.cache
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\obj\Debug\Projekat.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat\Projekat\Projekat\obj\Debug\Projekat.pdb
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\roslyn\csc.exe
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\roslyn\vbc.exe
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\roslyn\VBCSCompiler.exe
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\Projekat.dll.config
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\Projekat.dll
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\Projekat.pdb
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\Antlr3.Runtime.dll
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\EntityFramework.dll
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\EntityFramework.SqlServer.dll
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\Microsoft.Owin.dll
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.dll
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\Newtonsoft.Json.dll
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\Owin.dll
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\System.Web.Helpers.dll
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\System.Web.Mvc.dll
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\System.Web.Optimization.dll
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\System.Web.Razor.dll
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\System.Web.WebPages.dll
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\System.Web.WebPages.Razor.dll
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\WebGrease.dll
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\System.Web.Helpers.xml
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\System.Web.Mvc.xml
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\System.Web.Optimization.xml
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\System.Web.Razor.xml
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\System.Web.WebPages.xml
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\System.Web.WebPages.Razor.xml
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\Antlr3.Runtime.pdb
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\Newtonsoft.Json.xml
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\EntityFramework.xml
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\EntityFramework.SqlServer.xml
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\Microsoft.Owin.xml
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.xml
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\obj\Debug\Projekat.csprojResolveAssemblyReference.cache
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\obj\Debug\Projekat.dll
+C:\Users\filip\Desktop\Projekat\Projekat\Projekat\obj\Debug\Projekat.pdb
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\roslyn\csc.exe
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\roslyn\vbc.exe
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\Projekat.dll.config
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\Projekat.dll
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\Projekat.pdb
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\Antlr3.Runtime.dll
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\EntityFramework.dll
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\EntityFramework.SqlServer.dll
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\Microsoft.Owin.dll
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\Microsoft.Owin.Security.dll
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\Newtonsoft.Json.dll
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\Owin.dll
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\System.Web.Helpers.dll
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\System.Web.Mvc.dll
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\System.Web.Optimization.dll
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\System.Web.Razor.dll
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\System.Web.WebPages.dll
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\WebGrease.dll
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\System.Web.Helpers.xml
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\System.Web.Mvc.xml
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\System.Web.Optimization.xml
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\System.Web.Razor.xml
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\System.Web.WebPages.xml
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\Antlr3.Runtime.pdb
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\Newtonsoft.Json.xml
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\EntityFramework.xml
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\EntityFramework.SqlServer.xml
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\Microsoft.Owin.xml
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\Microsoft.Owin.Security.xml
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\obj\Debug\Projekat.csprojResolveAssemblyReference.cache
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\obj\Debug\Projekat.dll
+C:\Users\Nemanja\Desktop\Projekat1.2b\Projekat\Projekat\obj\Debug\Projekat.pdb
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\roslyn\csc.exe
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\roslyn\vbc.exe
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\Projekat.dll.config
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\Projekat.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\Projekat.pdb
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\Antlr3.Runtime.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\EntityFramework.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\EntityFramework.SqlServer.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\Microsoft.Owin.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\Microsoft.Owin.Security.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\Newtonsoft.Json.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\Owin.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\System.Web.Helpers.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\System.Web.Mvc.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\System.Web.Optimization.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\System.Web.Razor.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\System.Web.WebPages.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\WebGrease.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\System.Web.Helpers.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\System.Web.Mvc.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\System.Web.Optimization.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\System.Web.Razor.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\System.Web.WebPages.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\Antlr3.Runtime.pdb
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\Newtonsoft.Json.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\EntityFramework.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\EntityFramework.SqlServer.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\Microsoft.Owin.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\Microsoft.Owin.Security.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\obj\Debug\Projekat.csprojResolveAssemblyReference.cache
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\obj\Debug\Projekat.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\Projekat1.2b - dodat button za brisanje\Projekat\Projekat\obj\Debug\Projekat.pdb
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\roslyn\csc.exe
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\roslyn\vbc.exe
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\Projekat.dll.config
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\Projekat.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\Projekat.pdb
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\Antlr3.Runtime.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\EntityFramework.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\EntityFramework.SqlServer.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\Microsoft.Owin.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\Newtonsoft.Json.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\Owin.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\System.Web.Helpers.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\System.Web.Mvc.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\System.Web.Optimization.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\System.Web.Razor.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\System.Web.WebPages.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\WebGrease.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\System.Web.Helpers.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\System.Web.Mvc.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\System.Web.Optimization.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\System.Web.Razor.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\System.Web.WebPages.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\Antlr3.Runtime.pdb
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\Newtonsoft.Json.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\EntityFramework.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\EntityFramework.SqlServer.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\Microsoft.Owin.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\obj\Debug\Projekat.csprojResolveAssemblyReference.cache
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\obj\Debug\Projekat.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat\Projekat\Projekat\obj\Debug\Projekat.pdb
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\roslyn\csc.exe
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\roslyn\vbc.exe
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\Projekat.dll.config
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\Projekat.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\Projekat.pdb
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\Antlr3.Runtime.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\EntityFramework.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\EntityFramework.SqlServer.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\Microsoft.Owin.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\Microsoft.Owin.Security.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\Newtonsoft.Json.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\Owin.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\System.Web.Helpers.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\System.Web.Mvc.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\System.Web.Optimization.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\System.Web.Razor.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\System.Web.WebPages.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\WebGrease.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\System.Web.Helpers.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\System.Web.Mvc.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\System.Web.Optimization.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\System.Web.Razor.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\System.Web.WebPages.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\Antlr3.Runtime.pdb
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\Newtonsoft.Json.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\EntityFramework.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\EntityFramework.SqlServer.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\Microsoft.Owin.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\Microsoft.Owin.Security.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\obj\Debug\Projekat.csprojResolveAssemblyReference.cache
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\obj\Debug\Projekat.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija\Projekat\Projekat\obj\Debug\Projekat.pdb
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\roslyn\csc.exe
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\roslyn\vbc.exe
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\Projekat.dll.config
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\Projekat.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\Projekat.pdb
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\Antlr3.Runtime.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\EntityFramework.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\EntityFramework.SqlServer.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\Microsoft.Owin.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\Microsoft.Owin.Security.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\Newtonsoft.Json.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\Owin.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\System.Web.Helpers.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\System.Web.Mvc.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\System.Web.Optimization.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\System.Web.Razor.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\System.Web.WebPages.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\WebGrease.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\System.Web.Helpers.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\System.Web.Mvc.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\System.Web.Optimization.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\System.Web.Razor.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\System.Web.WebPages.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\Antlr3.Runtime.pdb
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\Newtonsoft.Json.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\EntityFramework.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\EntityFramework.SqlServer.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\Microsoft.Owin.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\Microsoft.Owin.Security.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\obj\Debug\Projekat.csprojResolveAssemblyReference.cache
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\obj\Debug\Projekat.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - iskljucena registracija, izbrisano nepotrebno\Projekat\Projekat\obj\Debug\Projekat.pdb
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\roslyn\csc.exe
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\roslyn\vbc.exe
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\Projekat.dll.config
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\Projekat.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\Projekat.pdb
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\Antlr3.Runtime.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\EntityFramework.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\EntityFramework.SqlServer.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\Microsoft.Owin.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\Microsoft.Owin.Security.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\Newtonsoft.Json.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\Owin.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\System.Web.Helpers.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\System.Web.Mvc.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\System.Web.Optimization.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\System.Web.Razor.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\System.Web.WebPages.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\WebGrease.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\System.Web.Helpers.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\System.Web.Mvc.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\System.Web.Optimization.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\System.Web.Razor.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\System.Web.WebPages.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\Antlr3.Runtime.pdb
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\Newtonsoft.Json.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\EntityFramework.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\EntityFramework.SqlServer.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\Microsoft.Owin.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\Microsoft.Owin.Security.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\obj\Debug\Projekat.csprojResolveAssemblyReference.cache
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\obj\Debug\Projekat.dll
+C:\Users\Vedran456\Desktop\c#\asp .net\za git\Projekat - za predaju\Projekat\Projekat\obj\Debug\Projekat.pdb

@@ -1,0 +1,62 @@
+﻿@model Projekat.ViewModels.PostanskeAdreseViewModel
+@{
+    ViewBag.Title = "PostanskeAdrese";
+}
+
+<h2>Postanske Adrese</h2>
+
+    @using (Html.BeginForm("SacuvajIzmenePostanskihAdresa", "Arhiva"))
+    {
+        <div class="row" style="margin-bottom: 15px">
+                <div class="col-md-3">
+                    <button type="submit" class="btn btn-primary">
+                        Sačuvaj
+                    </button>
+                    @Html.ActionLink("Dodaj adresu", "NovaPostanskaAdresa", "Arhiva", new { id = @Model.PostanskeAdrese[0].Id }, new { @class = "btn btn-primary" })
+                </div>        
+        </div>
+
+
+            <div class="row">
+                @for (int i = 0; i < Model.PostanskeAdrese.Count(); i++)
+                {
+                    <div class="col-md-3">
+                        <div class="form-group">
+                            @Html.LabelFor(a => Model.PostanskeAdrese[i].Adresa) @(i + 1):
+                            @Html.DropDownListFor(a => Model.PostanskeAdrese[i].OznakaPostanskeAdrese.Id, new SelectList(Model.OznakePostanskeAdrese, "Id", "Oznaka", Model.PostanskeAdrese[i].OznakaPostanskeAdrese.Id), "Oznaka", new { @class = "form-control" })
+                            @Html.TextBoxFor(a => Model.PostanskeAdrese[i].Adresa, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(a => Model.PostanskeAdrese[i].Adresa)
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(a => Model.PostanskeAdrese[i].PostanskiBroj)
+                            @Html.TextBoxFor(a => Model.PostanskeAdrese[i].PostanskiBroj, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(a => Model.PostanskeAdrese[i].PostanskiBroj)
+                        </div>
+                        <div class="form-group">
+                            @Html.LabelFor(a => Model.PostanskeAdrese[i].Grad)
+                            @Html.TextBoxFor(a => Model.PostanskeAdrese[i].Grad, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(a => Model.PostanskeAdrese[i].Grad)
+                        </div>
+                        @Html.HiddenFor(a => Model.PostanskeAdrese[i].Id)
+                        @Html.HiddenFor(a => Model.PostanskeAdrese[i].RedniBr)
+                        @if (Model.PostanskeAdrese.Count > 1)
+                        {
+                        @Html.ActionLink("IZBRIŠI", "IzbrisiPostanskuAdresu", "Arhiva", new { id = @Model.PostanskeAdrese[i].Id, rednibr = @Model.PostanskeAdrese[i].RedniBr }, new { @class = "btn btn-primary", style = "margin-bottom: 5px" })
+                        }
+
+                    </div>
+                }
+            </div>
+
+        
+
+
+    }
+
+
+ 
+
+@section Scripts
+{
+    @Scripts.Render("~/bundles/jqueryval")
+}

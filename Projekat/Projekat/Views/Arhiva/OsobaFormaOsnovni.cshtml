@@ -1,0 +1,107 @@
+﻿@model Projekat.ViewModels.OsobaUredjivanje
+
+@{
+    ViewBag.Title = "Osoba - uređivanje";
+}
+<div style="margin-bottom: 15px">
+    <div class="row">
+        <h2>Osnovni podaci - uređivanje</h2>
+        @Html.ActionLink("Izmeni telefone", "Telefoni", "Arhiva", new { id = Model.Osoba.Id }, new { @class = "btn btn-primary" })
+        @Html.ActionLink("Izmeni E-Mail Adrese", "Adrese", "Arhiva", new { id = Model.Osoba.Id }, new { @class = "btn btn-primary" })
+        @Html.ActionLink("Izmeni Poštanske Adrese", "PostanskeAdrese", "Arhiva", new { id = Model.Osoba.Id }, new { @class = "btn btn-primary" })
+    </div>
+</div>
+
+<div class="row">
+    @using (Html.BeginForm("Sacuvaj", "Arhiva", null, FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+
+        <div class="col-md-3">
+
+            <div class="form-group">
+                @Html.LabelFor(a => a.Osoba.JMBG)
+                @Html.TextBoxFor(a => a.Osoba.JMBG, new { @class = "form-control" })
+                @Html.ValidationMessageFor(a => a.Osoba.JMBG)
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(a => a.Osoba.Ime)
+                @Html.TextBoxFor(a => a.Osoba.Ime, new { @class = "form-control" })
+                @Html.ValidationMessageFor(a => a.Osoba.Ime)
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(a => a.Osoba.Prezime)
+                @Html.TextBoxFor(a => a.Osoba.Prezime, new { @class = "form-control" })
+                @Html.ValidationMessageFor(a => a.Osoba.Prezime)
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(a => a.Osoba.ImeRoditelja)
+                @Html.TextBoxFor(a => a.Osoba.ImeRoditelja, new { @class = "form-control" })
+                @Html.ValidationMessageFor(a => a.Osoba.ImeRoditelja)
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(a => a.Osoba.DatumRodjenja)
+                @Html.TextBoxFor(a => a.Osoba.DatumRodjenja, "{0:dd.MM.yyyy}", new { @class = "form-control" })
+                @Html.ValidationMessageFor(a => a.Osoba.DatumRodjenja)
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(a => a.Osoba.MestoRodjenja)
+                @Html.TextBoxFor(a => a.Osoba.MestoRodjenja, new { @class = "form-control" })
+                @Html.ValidationMessageFor(a => a.Osoba.MestoRodjenja)
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(a => a.Osoba.OpstinaRodjenja)
+                @Html.TextBoxFor(a => a.Osoba.OpstinaRodjenja, new { @class = "form-control" })
+                @Html.ValidationMessageFor(a => a.Osoba.OpstinaRodjenja)
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(a => a.Osoba.Pol)
+                @Html.DropDownListFor(a => a.Osoba.Pol, new SelectList(Model.Pol, "Vrednost", "Prikaz"), "Pol", new { @class = "form-control" })
+                @Html.ValidationMessageFor(a => a.Osoba.Pol)
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(a => a.Osoba.BrojLicneKarte)
+                @Html.TextBoxFor(a => a.Osoba.BrojLicneKarte, new { @class = "form-control" })
+                @Html.ValidationMessageFor(a => a.Osoba.BrojLicneKarte)
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(a => a.Osoba.Beleska)
+                @Html.TextAreaFor(a => a.Osoba.Beleska, new { @class = "form-control" })
+                @Html.ValidationMessageFor(a => a.Osoba.Beleska)
+            </div>
+            @Html.HiddenFor(a => a.Osoba.Id)
+            @Html.HiddenFor(a => a.Osoba.Fotografija)
+            <button type="submit" class="btn btn-primary">
+                Sačuvaj
+            </button>
+        </div>
+        <div class="col-md-3">
+            @if (Model.Osoba.Fotografija != "")
+            {
+                <img src="~/slike/@Model.Osoba.Fotografija" width="185" height="200"/>
+                <br/>
+                <label for="file">Postavi drugu sliku:</label>
+            }
+            else
+            {
+                <label for="file">Postavi sliku:</label>
+            }
+            <input type="file" name="file" id="file" style="width: 100%;"/>
+ 
+        </div>
+
+    }
+</div>
+
+@section Scripts
+{
+    @Scripts.Render("~/bundles/jqueryval")
+}

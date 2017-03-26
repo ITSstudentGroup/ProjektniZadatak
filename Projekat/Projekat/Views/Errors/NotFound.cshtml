@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewBag.Title = "Stranica nije pronadjena";
+}
+
+<link href="@Url.Content("~/Content/ErrorStyle.css")" rel="stylesheet" type="text/css" />
+
+<div class="jumbotron">
+    <center> <h2>Stranica je uklonjena ili nikada nije ni postojala</h2></center>
+    <center><text>Vrati se na <a href="@Url.RouteUrl("Home",new { controller = "Home", action = "Index" })">Pocetnu stranu</a></text></center>
+</div>
+
+

@@ -1,0 +1,45 @@
+﻿@using Projekat.Models
+@model IEnumerable<Projekat.Models.Korisnik>
+@{
+    ViewBag.Title = "Upravljanje korisnicima";
+}
+<div class="row">
+    <h2>Upravljanje korisnicima</h2>
+  
+    @Html.ActionLink("NOV KORISNIK", "NoviKorisnik", "Admin", null, new { @class = "btn btn-primary" })
+</div>
+<hr>
+<div class="row" style="margin-top: 15px">
+    <div class="col-md-6">
+        <table class="table table-striped table-hover table-bordered">
+            <thead>
+                <tr>
+                    <th>E-Mail(korisničko ime)</th>
+                    <th>Uloga</th>
+                    <th>Izmeni korisnika</th>
+                    <th>Izbriši korisnika</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Korisnik jedan in Model)
+                {
+                    <tr>
+                        <td>@jedan.UsernameEmail</td>
+                        <td>@jedan.Uloga</td>                      
+                        @if (jedan.Uloga != "admin" ||  (Model.Count(a => a.Uloga == "admin") > 1) )
+                        {
+                            <td>@Html.ActionLink("IZBRIŠI", "IzbrisiKorisnika", "Admin", new {id = jedan.Id}, new {@class = "btn btn-primary btn-danger", onclick = "return confirm('Potvrdi brisanje korisnika.');"})</td>
+                            <td>@Html.ActionLink("IZMENI", "UredjivanjeKorisnika", "Admin", new { id = jedan.Id }, new { @class = "btn btn-primary" })</td>
+                        }                       
+                        else
+                        {
+                            <td colspan="2">Nije moguće izbrisati niti izmeniti jedinog administratora.</td>
+                        }
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+    </div>
+</div>
+

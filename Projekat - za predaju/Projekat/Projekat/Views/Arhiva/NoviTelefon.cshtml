@@ -1,0 +1,35 @@
+﻿@model Projekat.ViewModels.TelefoniViewModel
+@{
+    ViewBag.Title = "NoviTelefon";
+}
+
+<h2>Novi Telefon</h2>
+<hr>
+@using (Html.BeginForm("SacuvajNoviTelefon", "Arhiva"))
+{
+    <div class="col-md-3" style="display:inline-block">
+        <div class="form-group" style="margin-bottom:2%">
+            @Html.LabelFor(a => Model.Telefoni[0].Broj):
+            @Html.DropDownListFor(a => Model.Telefoni[0].OznakaTelefona.Id, new SelectList(Model.OznakeTelefona, "Id", "Oznaka"), "Oznaka", new { @class = "form-control" })
+            @Html.TextBoxFor(a => Model.Telefoni[0].Broj, new { @class = "form-control" })
+            @Html.ValidationMessageFor(a => Model.Telefoni[0].Broj)
+
+
+            @Html.LabelFor(a => Model.Telefoni[0].Lokal)
+            @Html.TextBoxFor(a => Model.Telefoni[0].Lokal, new { @class = "form-control" })
+        </div>
+        </div>
+
+        @Html.HiddenFor(a => Model.Telefoni[0].Id)
+
+    <div class="col-md-3" style="display:block">
+
+        <button type="submit" class="btn btn-primary" style="margin-bottom: 15px">
+            Sačuvaj
+        </button>
+        </div>
+        }
+        @section Scripts
+{
+            @Scripts.Render("~/bundles/jqueryval")
+        }

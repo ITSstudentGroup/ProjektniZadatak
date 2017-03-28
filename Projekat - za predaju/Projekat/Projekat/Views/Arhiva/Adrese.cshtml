@@ -1,0 +1,51 @@
+﻿@model Projekat.ViewModels.AdreseViewModel
+@{
+    ViewBag.Title = "Adrese";
+}
+
+<h2>Adrese</h2>
+<hr>
+@using (Html.BeginForm("SacuvajIzmeneAdresa", "Arhiva"))
+{
+    <div class="row" style="margin-bottom: 15px">
+            <div class="col-md-3" style="display:block">
+              
+                @Html.ActionLink("Dodaj adresu", "NovaAdresa", "Arhiva", new { id = @Model.Adrese[0].Id }, new { @class = "btn btn-primary" })
+            </div>      
+    </div>
+
+    <div class="row">
+        @for (int i = 0; i < Model.Adrese.Count(); i++)
+        {
+        <div class="col-md-3" style="display:inline-block" > <!---moz-groupbox-->
+            <div class="form-group">
+                @Html.LabelFor(a => Model.Adrese[i].Adresa)  @(i + 1):
+                @Html.DropDownListFor(a => Model.Adrese[i].OznakaMaila.Id, new SelectList(Model.OznakeMaila, "Id", "Oznaka", Model.Adrese[i].OznakaMaila.Id), "Oznaka", new { @class = "form-control" })
+                @Html.TextBoxFor(a => Model.Adrese[i].Adresa, new { @class = "form-control" })
+                @Html.ValidationMessageFor(a => Model.Adrese[i].Adresa)
+            </div>
+            @Html.HiddenFor(a => Model.Adrese[i].Id)
+            @Html.HiddenFor(a => Model.Adrese[i].RedniBr)
+            @if (Model.Adrese.Count > 1)
+            {
+                <div class="form-group" style="display:inline-table">
+                    @Html.ActionLink("OBRIŠI", "IzbrisiAdresu", "Arhiva", new { id = @Model.Adrese[i].Id, rednibr = @Model.Adrese[i].RedniBr }, new { @class = "btn btn-primary", style = "margin:4%" })
+                   </div>
+                     }
+                </div>
+            }
+    </div>
+
+    <div class="col-md-3" style="display:block">
+        <button type="submit" class="btn btn-primary">
+            Sačuvaj
+        </button>
+    </div>
+}
+
+
+@section Scripts
+{
+      @Scripts.Render("~/bundles/jqueryval")
+}
+
